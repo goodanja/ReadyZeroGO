@@ -1,0 +1,8 @@
+baseURL = "http://readyxerogo.co.nz/"
+languageCode = "en-us"
+title = "Ready Xero Go"
+theme = "ananke"
+
+[params]
+  body_classes = "avenir bg-near-white"
+  #custom_css = ["css/custom.css","css/custom2.css"]
