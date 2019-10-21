@@ -1,6 +1,6 @@
-baseURL = "http://readyxerogo.co.nz/"
+baseURL = "http://readyZeroGo.com/"
 languageCode = "en-us"
-title = "Ready Xero Go"
+title = "Ready Zero Go"
 theme = "ananke"
 
 [params]

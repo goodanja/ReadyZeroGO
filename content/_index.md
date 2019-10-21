@@ -1,8 +1,8 @@
 ---
-title: "Ready Xero Go"
+title: "Ready Zero Go"
 date: 2019-10-15T20:22:50+13:00
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "Get the best of Xero while saving time."
+description: "Get the best of Zero while saving time."
 ---
 
 ## Ready Xero Go
